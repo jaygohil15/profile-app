@@ -1,7 +1,7 @@
 .profilecontainer {
    width: 80vw;
    display: flex;
-   justify-content: start;
+   justify-content: flex-start;
    color: #263238;
    background-color: white;
    margin: 4rem auto;
@@ -47,7 +47,7 @@
 
 .profilecontainer-details-main {
    display: flex;
-   justify-content: start;
+   justify-content: flex-start;
 }
 
 .profilecontainer-details-main div {
@@ -77,6 +77,7 @@
 
 .profilecontainer-details-footer {
    margin: 0rem 1rem;
+   /* width: 100%; */
 }
 
 .profilecontainer-details-footer input {

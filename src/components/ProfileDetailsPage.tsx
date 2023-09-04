@@ -10,7 +10,7 @@ const ProfileDetailsPage = ({ user, getData }: any) => {
       return (
          <div className="profilecontainer">
             <div className="profilecontainer-image">
-               <img src={user.picture.large} alt='Image not Available' />
+               <img src={user.picture.large} alt='Not Available' />
             </div>
             <div className='profilecontainer-details'>
                <div className="profilecontainer-details-heading">Profile</div>

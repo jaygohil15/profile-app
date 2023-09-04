@@ -1,5 +1,5 @@
 # NOTE: 
-   Api provided is public API and it might take some time to fetch data.
+## Api provided is public API and it might take some time to fetch data.
    
 ## Available Scripts
 
